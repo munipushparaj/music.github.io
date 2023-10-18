@@ -11,7 +11,7 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
     {songName: "yetupone", filePath: "songs/1.mp3", coverPath: "Piano Music Notes Clipart Transparent PNG Hd, Music Note Wing Icon Design Template Vector Isolated, Music Icons, Note Icons, Template Icons PNG Image For Free Download.jpeg"},
-    {songName: "Bangala katatham-pk", filePath: "songs/10.mp3", coverPath: "images/mu1.jpg"},
+    {songName: "Bangala kaatham lo-pk", filePath: "songs/10.mp3", coverPath: "images/mu1.jpg"},
     {songName: "Jalsa-pk", filePath: "songs/2.mp3", coverPath: "Piano Music Notes Clipart Transparent PNG Hd, Music Note Wing Icon Design Template Vector Isolated, Music Icons, Note Icons, Template Icons PNG Image For Free Download.jpeg"},
     {songName: "mustafa", filePath: "songs/3.mp3", coverPath: "images/mu1.jpg"},
     {songName: "tuli-tuli-u1", filePath: "songs/4.mp3", coverPath: "Piano Music Notes Clipart Transparent PNG Hd, Music Note Wing Icon Design Template Vector Isolated, Music Icons, Note Icons, Template Icons PNG Image For Free Download.jpeg"},
